@@ -6,7 +6,9 @@
 <h2>Table of Contents</h2>
 
 <ol>
-    <li> [Overview](#overview)</li>
+    <li> 
+        
+[Overview](#overview)</li>
         <ul><li> [Screenshot](#screenshot)</li>
         <li> [Links](#links)</li></ul>
     <li> [My process](#my-process)</li>
@@ -19,15 +21,13 @@
 
 <h3>Screenshot</h3>
 
-![Desktop-Preview][images/Desktop-Preview.png]
+![Desktop-Preview](images/Desktop-Preview.png)
 
-![Mobile-Preview][images/Mobile-Preview.png]
+![Mobile-Preview](images/Mobile-Preview.png)
 
 <h3>Links</h3>
 
-<p>- Live Site URL: </p>
-
-[Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://qr-code-component-by-yashi.netlify.app/)
 
 <h2>My Process</h2>
 
@@ -40,14 +40,9 @@
 
 <h2>Author</h2>
 
-<p>Frontend Mentor -</p>
+Frontend Mentor - [@Yashi-Singh-1](https://www.frontendmentor.io/profile/Yashi-Singh-1)
 
-[Yashi-Singh-1](<p>Frontend Mentor -</p> [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-)
-
-<p>LinkedIn -</p> 
-
-[Yashi Singh](www.linkedin.com/in/yashi-singh-b4143a246)
+LinkedIn - [Yashi Singh](www.linkedin.com/in/yashi-singh-b4143a246)
 
 <h2>Acknowledgments</h2>
 
