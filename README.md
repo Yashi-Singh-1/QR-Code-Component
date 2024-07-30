@@ -1,7 +1,6 @@
 <h1>Frontend Mentor - QR Code Component Solution</h1>
 
-<p>This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-</p>
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 <h2>Table of Contents</h2>
 
@@ -49,6 +48,6 @@ LinkedIn - [Yashi Singh](www.linkedin.com/in/yashi-singh-b4143a246)
 <p>I would like to extend my heartfelt thanks to the following individuals and resources for their invaluable support and inspiration:</p>
 
 <ol>
-<li> <a href="https://www.frontendmentor.io/challenges"><b>Frontend Mentor</a>:</b> For providing the challenge and helping me improve my front-end skills with practical projects.<li>
+<li> <a href="https://www.frontendmentor.io/challenges"><b>Frontend Mentor</a>:</b> For providing the challenge and helping me improve my front-end skills with practical projects.</li>
 <li><b>My Peers and Mentors:</b> For their constructive feedback and encouragement throughout the development process.</li>
 </ol>
